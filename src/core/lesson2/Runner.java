@@ -6,10 +6,6 @@ public class Runner {
         Person ivan = new Person();
         ivan.setName("Иван");
         System.out.println(ivan.getName());
-        System.out.println(ivan.getName());
-        System.out.println(ivan.getName());
-        System.out.println(ivan.getName());
-        System.out.println(ivan.getName());
 
     }
 
